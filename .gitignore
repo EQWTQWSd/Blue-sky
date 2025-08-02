@@ -5,3 +5,7 @@ node_modules/
 dist/
 build/
 red-black-shop-firebase-adminsdk-fbsvc-eafa820ea6.json
+mkdir my-chat-project
+cd my-chat-project
+npm init -y
+npm install express socket.io
